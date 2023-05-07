@@ -1,8 +1,8 @@
-
 .theme-button {
     display: block;
     margin: 0 auto;
     padding: 15px;
+    width: 150px;
     border-radius: 12px;
     cursor: pointer;
     box-sizing: border-box;
